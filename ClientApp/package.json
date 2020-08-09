@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
-    "start": "ng serve",
+    "start": "ng serve --verbose",
     "build": "ng build",
     "test": "ng test",
     "lint": "ng lint",
@@ -23,7 +23,7 @@
     "bootstrap": "^4.5.2",
     "jquery": "^3.5.1",
     "popper": "^1.0.1",
-    "rxjs": "~6.5.5",
+    "rxjs": "~6.6.2",
     "tslib": "^2.0.0",
     "zone.js": "~0.10.3"
   },
